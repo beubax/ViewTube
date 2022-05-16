@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\tejas\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tejas\\.nuget\\packages"
+    ]
+  }
+}
